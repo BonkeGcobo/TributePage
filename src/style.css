@@ -1,0 +1,42 @@
+h1{
+  text-align:center;
+}
+body{
+  background-color:rgb(238,238,238);
+  
+}
+.p-title{
+  text-align:center;
+}
+#img-div{
+  width:75%;
+  height:70%;
+  background-color:white;
+  border-style:solid;
+  margin:auto;
+  justify-content:center;
+}
+#image{
+  width: 100%;
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top:30px;
+  margin-bottom:30px;
+}
+#img-caption{
+  text-align:center;
+}
+.info-heading{
+  text-align:center;
+}
+#tribute-info{
+  width:50%;
+  margin:auto;
+  
+}
+#tribute-link{
+  margin-left:300px;
+}
